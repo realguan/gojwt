@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gojwt/jwt"
+	"github.com/realguan/gojwt/jwt"
 )
 
 func main() {

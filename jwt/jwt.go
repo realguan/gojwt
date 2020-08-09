@@ -1,7 +1,7 @@
 package jwt
 
 import (
-	"gojwt/encrypt"
+	"github.com/realguan/gojwt/encrypt"
 	"encoding/base64"
 	"encoding/json"
 	"strings"

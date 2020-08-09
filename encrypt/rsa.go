@@ -9,7 +9,7 @@ import (
 	"encoding/pem"
 	"fmt"
 	"os"
-	"gojwt/utils"
+	"github.com/realguan/gojwt/utils"
 )
 
 // generate privatekey and publickey by RSA
